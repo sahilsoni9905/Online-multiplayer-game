@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "874088432940",
+    "project_id": "gambling-app-ff80b",
+    "storage_bucket": "gambling-app-ff80b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:874088432940:android:5d2fce5816e3ad2f0c9889",
+        "android_client_info": {
+          "package_name": "com.example.mega_app_project"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHat0epB5vwmEmOpaDBiCXt_0Gt5MASHg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
